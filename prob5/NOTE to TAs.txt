@@ -1,0 +1,5 @@
+-----------------------------------------------------------------------
+Since my Json files were in excess of 20000Kbs 
+I could not properly form a representative data set. 
+I have just repeated a single file in order for the application to work.
+-----------------------------------------------------------------------
